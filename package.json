@@ -12,6 +12,6 @@
     "postcss-load-config": "^2.1.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "simpl-schema": "^1.5.6"
+    "simpl-schema": "^1.10.2"
   }
 }
